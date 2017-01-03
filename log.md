@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017, Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  
+1. Reorganized (spaghetti) code of my first D3 diagram into separate files with reusable objects  
+2. Setup 100 Days of Code Repository and re-familiarized myself with Wiki-Markup (two spaces for a new line ;-)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**
+I finished my first chart in pure D3. Before, I worked through Udacity's D3 and Data Visualization course and I'm glad to see that the combination of tutorials and practice works out fine for me - in spite of the mission statement of 100 Days of Code. Nevertheless happy to focus on code practice for the next 100 Days of Code and move on with FreeCodeCamp's Certification.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**  
+1. [Visualize US GDP data with a (D3) bar chart](http://codepen.io/relwiwa/full/zoVjxJ), [First Git Commit]  (https://github.com/relwiwa/FCC-Data-Visualization/commit/578f8b460820c456085e9ddb5b6ee32de56950c0), [Second Git Commit] (https://github.com/relwiwa/FCC-Data-Visualization/commit/6880d1a73b2bdd7a90437f82f109b3ab1029c297)  
+2. [My 100 Days of Code Repository] (https://github.com/relwiwa/100-days-of-code)
