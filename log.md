@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 4, 2017, Tuesday
+
+**Today's Progress**:  
+1. Reorganized Git/Github repository using git's filter-branch functionality and submodules  
+2. Setup Gulp to automate tasks during production and creating productive distribution  
+3. Started with FreeCodCamp's Scatterplot Graph Challenge, changing from D3's version 3 to version 4  
+
+**Thoughts**
+Today I learned that it's possible to filter commits using Git's filter-branch functionality. I was never really happy with not being able to create a hyrarchical structure using Github in an easy way. So today, I decided to put every single project in its own repository resulting in tons of repositories. But also, to use submodules to organize them a little better.  
+
+**Resources used**  
+1. [Git's filter-branch Documenation] (https://git-scm.com/docs/git-filter-branch), [Git's submodule functionanlity] (https://git-scm.com/book/en/v2/Git-Tools-Submodules)  
+2. [Udacity's course on Web-Tooling and Automation](https://de.udacity.com/course/web-tooling-automation--ud892))  
+3. [What's new in D3 v4] (https://iros.github.io/d3-v4-whats-new)  
+
+**Link(s) to work**  
+1. [Re-organized Data Visualization Repo](https://github.com/relwiwa/fcc-data-viz)  
+2. [Bar Chart project using Gulp] (https://github.com/relwiwa/fcc-bar-chart/commit/fcdffa3b1c2762e26ea23deb77ae86801ae08959), [Scatterplot Graph project using Gulp] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/186f9492d5e73c2c74d6bbe8431d002324a1f1cf)
+3. [Scatterplot Graph project] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/186f9492d5e73c2c74d6bbe8431d002324a1f1cf)  
+
 ### Day 1: January 3, 2017, Tuesday
 
 **Today's Progress**:  
@@ -10,5 +30,5 @@
 I finished my first chart in pure D3. Before, I worked through Udacity's D3 and Data Visualization course and I'm glad to see that the combination of tutorials and practice works out fine for me - in spite of the mission statement of 100 Days of Code. Nevertheless happy to focus on code practice for the next 100 Days of Code and move on with FreeCodeCamp's Certification.
 
 **Link(s) to work**  
-1. [Visualize US GDP data with a (D3) bar chart](http://codepen.io/relwiwa/full/zoVjxJ), [First Git Commit]  (https://github.com/relwiwa/FCC-Data-Visualization/commit/578f8b460820c456085e9ddb5b6ee32de56950c0), [Second Git Commit] (https://github.com/relwiwa/FCC-Data-Visualization/commit/6880d1a73b2bdd7a90437f82f109b3ab1029c297)  
+1. [Visualize US GDP data with a (D3) bar chart](http://codepen.io/relwiwa/full/zoVjxJ), [First Git Commit]  (https://github.com/relwiwa/fcc-bar-chart/commit/aa560170702602b4dd583957c20a0bc5bf514887), [Second Git Commit] (https://github.com/relwiwa/fcc-bar-chart/commit/fcb9b0f6b4f5b6dde64700ce630dbd01781800fb)  
 2. [My 100 Days of Code Repository] (https://github.com/relwiwa/100-days-of-code)
