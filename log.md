@@ -1,9 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, 2017, Tuesday
+
+**Today's Progress**:  
+1. Continued work on Scatterplot Graph Challenge: Added tooltips with hover effect to the scatterplot chart. This turned out to be the user-driven narrative of this chart. Also added an animation as author-driven narrative, focusing of high percentage of professional cyclists with doping allegations. 
+
+**Thoughts**   
+This time, I did not use intervals to create the animation, but D3's native transition function, that provides transition-specifc events. These enable altering various elements in the chart, not just the one currenty in transition. Took me a while to figure it out.  
+
+**Resources used**  
+1. [D3 transition documentation] (https://github.com/d3/d3-transition)  
+
+**Link(s) to work**  
+1. Today's Scatterplot Graph Commits: [Add tooltips and hover effect] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/b1b9764a5216682a0174afe33f0e5424e3c69635), [Add author-driven narrative] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/11c49251571e7d5fa9e54e67ebcd444293c219ee)  
+
+
 ### Day 3: January 5, 2017, Tuesday
 
 **Today's Progress**:  
-1. Continued work on Scatterplot Graph Challenge: Added x-axis after battling with Dates in Javascript. Also added the data circle to the chart. More tomorrow.  
+1. Continued work on Scatterplot Graph Challenge: Added x-axis after battling with Dates in Javascript. Also added the data circles to the chart. More tomorrow.  
 
 **Thoughts**   
 Today I (again) wrestled with dates and times in Javascript. In order to calculate the difference in minutes and seconds, I set the other date components to a fixed value.  
