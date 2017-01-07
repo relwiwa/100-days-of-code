@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: January 7, 2017, Tuesday
+
+**Today's Progress**:  
+1. Finished work on Scatterplot Graph Challenge: Added more story elements to author-driven narrative. Published project on Codepen. 
+
+**Link(s) to work**  
+1. Scatterplot Graph Challenge for FreeCodeCamp: [Codepen](http://codepen.io/relwiwa/pen/ZLGKBX), [Github commit] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/5bd963319c67867e08cefcb35d943e22a1e8e15b)  
+
 ### Day 4: January 6, 2017, Tuesday
 
 **Today's Progress**:  
