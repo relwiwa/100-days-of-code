@@ -1,7 +1,24 @@
 # 100 Days Of Code - Log
 
 
-### Day 5: January 7, 2017, Tuesday
+### Day 6: January 8, 2017, Sunday
+
+**Today's Progress**:  
+1. angular-cli to the rescue: Setup MEAN-stack foundation for Freecodecamp Voting Backend Project using Angular2  
+2. Configured deployment to Heroku  
+
+**Thoughts**   
+I used angular-cli to setup Angular2. Understanding and using Webpack is among my todos, but for now, using the client is really helpful.  
+
+**Resources used**  
+1. [Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0 (Udemy)] (https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/), [MEAN App with Angular 2 and the Angular CLI (Tutorial)] (https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli)  
+2. [Angular CLI Deployment: Host Your Angular 2 App on Heroku] (https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.tjc8rzgtu)
+
+**Link(s) to work**  
+1. Today's commits: [chore: initial commit from angular-cli] (https://github.com/relwiwa/fcc-voting/commit/ed84f958ae19a464fae408c44211a20e23e3e353), [Basic setup of express backend] (https://github.com/relwiwa/fcc-voting/commit/ba52876a186bc8e25a8d91f4d8e5ff1d88d91801)  
+2. [Voting app on Heroku] (https://relwiwa-voting.herokuapp.com/abc)  
+
+### Day 5: January 7, 2017, Saturday
 
 **Today's Progress**:  
 1. Finished work on Scatterplot Graph Challenge: Added more story elements to author-driven narrative. Published project on Codepen. 
@@ -9,7 +26,7 @@
 **Link(s) to work**  
 1. Scatterplot Graph Challenge for FreeCodeCamp: [Codepen](http://codepen.io/relwiwa/pen/ZLGKBX), [Github commit] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/5bd963319c67867e08cefcb35d943e22a1e8e15b)  
 
-### Day 4: January 6, 2017, Tuesday
+### Day 4: January 6, 2017, Friday
 
 **Today's Progress**:  
 1. Continued work on Scatterplot Graph Challenge: Added tooltips with hover effect to the scatterplot chart. This turned out to be the user-driven narrative of this chart. Also added an animation as author-driven narrative, focusing of high percentage of professional cyclists with doping allegations. 
@@ -24,7 +41,7 @@ This time, I did not use intervals to create the animation, but D3's native tran
 1. Today's Scatterplot Graph Commits: [Add tooltips and hover effect] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/b1b9764a5216682a0174afe33f0e5424e3c69635), [Add author-driven narrative] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/11c49251571e7d5fa9e54e67ebcd444293c219ee)  
 
 
-### Day 3: January 5, 2017, Tuesday
+### Day 3: January 5, 2017, Thursday
 
 **Today's Progress**:  
 1. Continued work on Scatterplot Graph Challenge: Added x-axis after battling with Dates in Javascript. Also added the data circles to the chart. More tomorrow.  
@@ -39,7 +56,7 @@ Today I (again) wrestled with dates and times in Javascript. In order to calcula
 1. Today's Scatterplot Graph Commits: [Add x-axis and helper functions for time calculations] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/2e6846eedce169330fd9a0808488747dd3edacf1), [Add circles to chart] (https://github.com/relwiwa/fcc-scatterplot-graph/commit/6bc20e77930f3a576001d5510f48f96b6146e56f)  
 
 
-### Day 2: January 4, 2017, Tuesday
+### Day 2: January 4, 2017, Wednesday
 
 **Today's Progress**:  
 1. Reorganized Git/Github repository using git's filter-branch functionality and submodules  
