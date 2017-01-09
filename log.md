@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9, 2017, Monday: ARN - MUC - ATH  
 
-### Day 6: January 8, 2017, Sunday
+**Today's Progress**:  
+1. Setup Mongoose schemas for Voting app.  
+
+**Link(s) to work**  
+1. Today's commit: [Setup Mongoose schemas and export models] (https://github.com/relwiwa/fcc-voting/commit/bf31231e6143028a60cb20725385e7a2ce926189)  
+
+
+### Day 6: January 8, 2017, Sunday: MUC - ARN
 
 **Today's Progress**:  
 1. angular-cli to the rescue: Setup MEAN-stack foundation for Freecodecamp Voting Backend Project using Angular2  
