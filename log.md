@@ -1,9 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10, 2017, Tuesday: ATH - MUC - TXL - MUC  
+
+**Today's Progress**:  
+1. Setup client-side components and services via angular-cli for Voting App.  
+2. Setup server-side API routes for Voting App.  
+
+**Resources used*  
+[Following the steps shown in: Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0 (Udemy)] (https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/),
+
+**Link(s) to work**  
+1. Today's commits: [Create Angular components and services needed for voting app] (https://github.com/relwiwa/fcc-voting/commit/9d1159b39138486328d51ae14e93dda0d992af9d), [Create poll and user routes with dummy responses] (https://github.com/relwiwa/fcc-voting/commit/8fb4cb3758823ead195f114970dfd2e067e81a8d)  
+
+
 ### Day 7: January 9, 2017, Monday: ARN - MUC - ATH  
 
 **Today's Progress**:  
-1. Setup Mongoose schemas for Voting app.  
+1. Setup Mongoose schemas for Voting Aapp.  
 
 **Link(s) to work**  
 1. Today's commit: [Setup Mongoose schemas and export models] (https://github.com/relwiwa/fcc-voting/commit/bf31231e6143028a60cb20725385e7a2ce926189)  
