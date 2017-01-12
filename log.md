@@ -1,15 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12, 2017, Thursday: MUC  
+
+**Today's Progress**:  
+Continued working on Voting App and getting to know how Angular2 Frontend and Node Backend work together by trial and error.  
+
+**Link(s) to work**  
+Today's commit:  
+[Complete basic poll creation functionality] (https://github.com/relwiwa/fcc-voting/commit/0453e8d92e17eb12f908c346167c23343240aae6)  
+
 ### Day 9: January 11, 2017, Wednesday: MUC  
 
 **Today's Progress**:  
 Continued working on Voting App for Freecodecamp Certification:  
-1. Setup a header component
-2. Setup frontend part of poll creation functionality, including routes and PollService for managing polls component-wide
+1. Setup a header component  
+2. Setup frontend part of poll creation functionality, including routes and PollService for managing polls component-wide  
 3. Got the title and plot for the Voting App: It's going to be called ''Decisions, Decisions''. And the plot will be a voting app for people undecided about something. And asking friends and the world to help them decide by voting. In another step, they could also give suggestions on alternatives to the options listed, but that will be beyond the scope of Freecodecamp's user stories.  
 
 **Resources used**  
-Continued to follow the steps shown in: [Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0 (Udemy)] (https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/),
+Continued to follow the steps shown in: [Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0 (Udemy)] (https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/)  
 
 **Open Questions**  
 What's the difference between [ngModel] and [(ngModel)]?  
