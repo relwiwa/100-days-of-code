@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 14, 2017, Saturday: MAN  
+
+**Today's Progress**:  
+Continued working on Voting App:
+1. Finished getting polls service functionality on frontend and backend
+2. Created PollList Component, reused it in Dashboard and Polls Components  
+
+**Link(s) to work**  
+Today's commit:  
+[Add poll retrieval functionality and create Dashboard and PollsList components] (https://github.com/relwiwa/fcc-voting/commit/d28e5abf87926c6cecd30608ab08c928211ee053)  
+
+### First Day Off in First 14 Days Period: January 13, 2017, Friday: MUC - DUB - MUC - MAN  
+
 ### Day 10: January 12, 2017, Thursday: MUC  
 
 **Today's Progress**:  
