@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 15, 2017, Sunday: MAN - MUC  
+
+**Today's Progress**:  
+Continued to work on Voting App:  
+1. Added links using routerLink, also using route parameters  
+2. Worked on PollDetail component  
+
+**Link(s) to work**  
+Today's commit:  
+[Use routerLinks and setup PollDetail component] (https://github.com/relwiwa/fcc-voting/commit/63422c80f4e54f35f5ab2af748dc4c20a57ea90d)  
+
+
 ### Day 11: January 14, 2017, Saturday: MAN  
 
 **Today's Progress**:  
-Continued working on Voting App:
+Continued to work on Voting App:
 1. Finished getting polls service functionality on frontend and backend
 2. Created PollList Component, reused it in Dashboard and Polls Components  
 
@@ -16,7 +28,7 @@ Today's commit:
 ### Day 10: January 12, 2017, Thursday: MUC  
 
 **Today's Progress**:  
-Continued working on Voting App and getting to know how Angular2 Frontend and Node Backend work together by trial and error.  
+Continued to work on Voting App and getting to know how Angular2 Frontend and Node Backend work together by trial and error.  
 
 **Link(s) to work**  
 Today's commit:  
@@ -25,7 +37,7 @@ Today's commit:
 ### Day 9: January 11, 2017, Wednesday: MUC  
 
 **Today's Progress**:  
-Continued working on Voting App for Freecodecamp Certification:  
+Continued to work on Voting App for Freecodecamp Certification:  
 1. Setup a header component  
 2. Setup frontend part of poll creation functionality, including routes and PollService for managing polls component-wide  
 3. Got the title and plot for the Voting App: It's going to be called ''Decisions, Decisions''. And the plot will be a voting app for people undecided about something. And asking friends and the world to help them decide by voting. In another step, they could also give suggestions on alternatives to the options listed, but that will be beyond the scope of Freecodecamp's user stories.  
