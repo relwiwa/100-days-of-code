@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 16, 2017, Monday: MUC  
+
+**Today's Progress**:  
+1. Read Angular 2's Guide  
+2. Continued to work on Voting App, focused on how to use observables  
+
+**Link(s) to work**  
+1. [Angular 2 Guide] (https://angular.io/docs/ts/latest/guide/)  
+2. Today's commit: [Improve usage of observables] (https://github.com/relwiwa/fcc-voting/commit/628faf27feecc4b2e2e29d4b9c2ba45dfc2d0df1)  
+
 ### Day 12: January 15, 2017, Sunday: MAN - MUC  
 
 **Today's Progress**:  
@@ -47,6 +57,7 @@ Continued to follow the steps shown in: [Angular 2 and NodeJS - The Practical Gu
 
 **Open Questions**  
 What's the difference between [ngModel] and [(ngModel)]?  
+!(https://angular.io/resources/images/devguide/architecture/databinding.png)  
 
 **Link(s) to work**  
 Today's commits:  
